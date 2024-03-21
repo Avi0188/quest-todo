@@ -37,8 +37,10 @@ To run the app locally, follow these steps:
 
 
 ![Screenshot 1](https://github.com/Avi0188/quest-todo/assets/115461360/66abb955-7c71-48d3-8cee-45aa84d9c65e)
-![Screenshot 2](https://github.com/Avi0188/quest-todo/assets/115461360/7d8d649f-b06d-4781-b819-54cd8b2a046b)
 
+![s3](https://github.com/Avi0188/quest-todo/assets/115461360/e0ad6032-972a-4d74-a457-bcd056bf100f)
+
+![s4](https://github.com/Avi0188/quest-todo/assets/115461360/d922bb6a-ed50-4c65-bbfd-5a64576e2c79)
 
 ## License
 
