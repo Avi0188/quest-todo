@@ -1,4 +1,8 @@
-
+.card{
+    /* width: 100%; */
+    border: 1px solid;
+  border-radius: 3px;
+}
 .card:hover .card_top svg{
 opacity: 1;
 }
@@ -19,6 +23,10 @@ opacity: 1;
     width: fit-content;
   }
 
+  .card_top_labels{
+    display: flex;
+  }
+
   .card_footer {
     display: flex;
     justify-content: space-between;
@@ -27,4 +35,14 @@ opacity: 1;
   .card_footer svg {
    height: 15px;
    width: 12px;
+  }
+
+  .cards_inside{
+    width: 100%;
+display: flex;
+justify-content: space-between;
+
+  }
+  .card_top_more{
+    position: relative;
   }

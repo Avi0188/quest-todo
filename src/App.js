@@ -12,11 +12,11 @@ const App = () => {
        
        <div className='app_boards'>
 
-      <Board />
-       <Board />
-       <Board />
-       <Board />
-      
+       <Board hed1={"To Do"} />
+      <Board   hed1={"In Progress"} />
+      <Board hed1={"Review"}  />
+      <Board hed1={"Done"} />
+     
        </div>
      
       </div>
