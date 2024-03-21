@@ -1,0 +1,37 @@
+{
+    "Boards": [
+      {
+        "id": 1,
+        "title": "Board 1",
+        "Cards": [
+          {
+            "id": 1,
+            "title": "Card 1",
+            "desc": "Description of Card 1"
+          },
+          {
+            "id": 2,
+            "title": "Card 2",
+            "desc": "Description of Card 2"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Board 2",
+        "Cards": [
+          {
+            "id": 3,
+            "title": "Card 3",
+            "desc": "Description of Card 3"
+          },
+          {
+            "id": 4,
+            "title": "Card 4",
+            "desc": "Description of Card 4"
+          }
+        ]
+      }
+    ]
+  }
+  
